@@ -58,7 +58,9 @@
 <a href="https://flask.palletsprojects.com/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff&style=flat"></a>
 <a href="https://wordpress.com/"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat"></a>
 <a href=" https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff&style=flat"></a>
-
+<a href="https://www.tensorflow.org/"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat"></a>
+<a href="https://pytorch.org/"><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat"></a>
+<a href="https://www.docker.com/"><img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat"></a>
 
 </p>
 
@@ -69,8 +71,10 @@
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Cloud" src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?logo=google-cloud&logoColor=fff&style=flat"></a>
+
 </p>
 
 <h2>💻 Software and Tools</h2>
@@ -78,7 +82,6 @@
 <p>
 <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
 <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
 <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
 <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
@@ -87,12 +90,15 @@
 <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="NeoVim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat" alt="Visual Studio Badge"></a>
 <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=flat"></a>
 <a href="#"><img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat" alt="PyCharm Badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse-ide&logoColor=fff&style=flat"></a>
+<a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat"></a>
+<a href="#"><img src="https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=fff&style=flat"></a>
+
+
 </p>
 
 <h1>Certifications! 🏆</h1>
