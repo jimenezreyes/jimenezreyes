@@ -25,7 +25,8 @@
   
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/abraham-jiménez82238" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+  <a href="https://www.linkedin.com/in/abraham-jim%C3%A9nez82238" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+
 
 <a href="https://www.facebook.com/abraham.jimenezreyes.5?mibextid=ZbWKwL" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
 <a href = "jimeneza@ciencias.unam.mx" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
