@@ -31,7 +31,7 @@
 <a href="https://www.facebook.com/abraham.jimenezreyes.5?mibextid=ZbWKwL" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
 <a href = "jimeneza@ciencias.unam.mx" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="abraham"  /></a>
 
-<a href ="https://portfolio5-jimenez.my.canva.site/cv" target=blank"><img align="center" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://portfolio5-jimenez.my.canva.site/cv" alt="abraham" /></a>
+<a href ="https://portfolio5-jimenez.my.canva.site/cv" target="blank"><img align="center" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://portfolio5-jimenez.my.canva.site/cv" alt="abraham" /></a>
   </p>
 <br>
 
