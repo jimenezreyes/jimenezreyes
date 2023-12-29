@@ -106,9 +106,8 @@
 <h1>Certifications! 🏆</h1>
 <Br>
   
-|[![](https://img.shields.io/badge/Introduction%e)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificatpg)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/ArPython-1.jpg)|[![](https://img.shields.io/badge/Machine%20Learninge-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm20Everyone-1.jpg)|[![](https://img.shields.io/badge/Data%20Science%20Tool-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certifi0I-1.jpg)|
+| [![](https://img.shields.io/badge/Data%20Analysis-red?style=for-the-badge)](https://github.com/jimenezreyes/Certificates/blob/main/Coursera%20838EBSCWNFEQ.jpg) | [![](https://img.shields.io/badge/Artificial%20Intelligence-orange?style=for-the-badge)](https://github.com/jimenezreyes/Certificates/blob/main/Coursera%2097CPVZ2XK5P4_.jpg) | [![](https://img.shields.io/badge/Cybersecurity-blue?style=for-the-badge)](https://github.com/jimenezreyes/Certificates/blob/main/Coursera%20D66M3UY4AM65.jpg) | [![](https://img.shields.io/badge/Database%20Systems-white?style=for-the-badge)](https://github.com/jimenezreyes/Certificates/blob/main/Coursera%20TZXXD9FBZB5S.jpg) |
 |---|---|---|---|
-
 <Br>
 <hr>
 
