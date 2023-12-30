@@ -9,6 +9,7 @@
 </h1>
 <br>
 <p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px">
+ 
   I'm Abraham, I'm a final year student of a Bachelor's degree in Computer Science 🎓. I am a student who is always willing to learn and work on all technologies. I am interested in exploring new technologies, that is why I am learning with data analysis and cybersecurity analysis courses.
 </p>
   
@@ -127,6 +128,17 @@
 <p align="right">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=jimenezreyes&show_icons=true&theme=dark&locale=en" alt="jimenezreyes" />
 </p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 -----
 
