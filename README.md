@@ -115,45 +115,18 @@
 
 <h3>💻 GitHub Profile Stats</h3>
 <div>
-  <a align="left" href="https://github.com/jimenezreyes">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimenezreyes&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="jimenezreyes" />
-  </a>
-  <a align="right" href="https://github.com/jimenezreyes">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=jimenezreyes&show_icons=true&theme=dark&locale=en&hide=prs,contribs" alt="jimenezreyes" />
-  </a>
-</div>
-
-<h3>🔥 GitHub Streak Stats</h3>
-<div>
   <a align="center" href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
     <img width=800 src="https://github-readme-streak-stats.herokuapp.com/?user=jimenezreyes&theme=algolia&border=61dafb&hide_border=true" alt="jimenezreyes" />
   </a>
 </div>
 
-<h2>📊 Github Stats and Activity</h2>
-
-<h3>💻 GitHub Profile Stats</h3>
-<p>
-    <a align="left">
-      <p><img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=jimenezreyes&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="jimenezreyes" /></p></a>
-    <a align="right">
-      <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jimenezreyes&show_icons=true&theme=dark&locale=en" alt="jimenezreyes" /></p></a>  
- </p>
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimenezreyes&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="jimenezreyes" />
 </p>
-</div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
+<p align="right">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jimenezreyes&show_icons=true&theme=dark&locale=en" alt="jimenezreyes" />
+</p>
 
 -----
 
